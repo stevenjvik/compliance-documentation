@@ -7,7 +7,7 @@ Security compliance templates, audit readiness tools, and documentation framewor
 
 ## Planned Components
 - NIST 800-53 control templates
-- CJIS Level 4 compliance checklists
+- CJIS Level 4 compliance checklists  
 - DISA STIG implementation guides
 - HIPAA security documentation
 - Audit readiness workflows
